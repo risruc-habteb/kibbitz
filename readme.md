@@ -1,4 +1,5 @@
 %kibbitz is a clone of %rumors by ~paldev.  https://github.com/Fang-/suite
+
 kibbitz depends on %pals.  download it from ~paldev.
 download on the network with `|install ~riswet/kibbitz`
 
