@@ -1,1 +1,0 @@
-../../../../../app/picture/webui/index.hoon

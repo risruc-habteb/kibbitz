@@ -1,1 +1,0 @@
-../../../../../app/pals/webui/sigil.hoon

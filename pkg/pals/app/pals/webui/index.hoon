@@ -1,1 +1,0 @@
-../../../../../app/pals/webui/index.hoon

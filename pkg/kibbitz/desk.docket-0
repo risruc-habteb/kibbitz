@@ -1,0 +1,10 @@
+:~
+  title+'kibbitz'
+  info+'chat with friends of friends'
+  color+0xfe.4533
+  image+'https://nyc3.digitaloceanspaces.com/interstellar//structure-albums/2025.6.18..22.01.46-kibbutz.jpg'
+  version+[0 0 1]
+  website+'https://website.internet'
+  license+'MIT'
+  site+/kibbitz
+==

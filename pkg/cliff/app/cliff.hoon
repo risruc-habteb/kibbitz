@@ -1,1 +1,0 @@
-../../../app/cliff.hoon

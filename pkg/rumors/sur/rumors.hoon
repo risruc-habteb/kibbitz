@@ -1,1 +1,0 @@
-../../../sur/rumors.hoon

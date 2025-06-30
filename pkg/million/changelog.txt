@@ -1,5 +1,0 @@
-million
-
-v1.0.1, ~2023.04.02
-- copy improvements.
-- tile links now open in new windows.

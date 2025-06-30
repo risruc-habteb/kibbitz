@@ -1,1 +1,0 @@
-../../../../mar/pals/command.hoon

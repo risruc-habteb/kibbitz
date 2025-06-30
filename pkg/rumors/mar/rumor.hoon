@@ -1,1 +1,0 @@
-../../../mar/rumor.hoon
