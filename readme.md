@@ -1,5 +1,6 @@
-%kibbitz is a clone of %rumors by ~paldev.
+%kibbitz is a clone of %rumors by ~paldev.  https://github.com/Fang-/suite
 kibbitz depends on %pals.  download it from ~paldev.
+download on the network with `|install ~riswet/kibbitz`
 
 kibbitz is a reskin of %rumors with an added field for @p.
 messages are not signed.  a displayed username is no guarantee of message origination.
